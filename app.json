@@ -1,5 +1,5 @@
 {
-  "name": "TG URL Uploader",
+  "name": "URL Uploaer",
   "description": "Telegram's best Open Source ALL-In-One Multi Purpose RoBot. Create your Fork now.",
   "keywords": [
     "telegram",
@@ -14,9 +14,9 @@
     "remote",
     "uploader"
   ],
-  "success_url": "https://telegram.dog/AnyDLBot",
-  "website": "https://github.com/SpEcHiDe/AnyDLBot",
-  "repository": "https://github.com/SpEcHiDe/AnyDLBot",
+  "success_url": "https://telegram.dog/chittaranjan2020",
+  "website": "https://github.com/chittaranjan2020",
+  "repository": "https://github.com/chittaranjan2020/URL-Uploader",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
@@ -40,7 +40,7 @@
     },
     "AUTH_USERS": {
       "description": "allow only pre-defined users to use this bot",
-      "value": "7351948 20516707 23122162 500346573"
+      "value": "7351948"
     },
     "BANNED_USERS": {
       "description": "Banned Unwanted members..",
